@@ -1,27 +1,26 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "gif-t",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A simple Electron UI for creating & manipulating gifs using imagemagick & gifsicle",
+  "author": "K. Adam White",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadamwhite/gif-t.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kadamwhite/gif-t/issues"
+  },
+  "homepage": "https://github.com/kadamwhite/gif-t#readme",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/electron/electron-quick-start.git"
-  },
+  "license": "MIT",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial"
+    "gif"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
-  "bugs": {
-    "url": "https://github.com/electron/electron-quick-start/issues"
-  },
-  "homepage": "https://github.com/electron/electron-quick-start#readme",
   "devDependencies": {
     "electron": "^1.3.4"
   }

@@ -1,6 +1,8 @@
-# electron-quick-start
+# Gif-T
 
-**Clone and run for a quick way to see an Electron in action.**
+This project is based on [electron-quick-start](https://github.com/electron/electron-quick-start)@[62d428a](https://github.com/electron/electron-quick-start/commit/62d428a1a51303c9a33c691b487c1998ba78faf8)
+
+----------------
 
 This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
 
@@ -16,13 +18,13 @@ You can learn more about each of these components within the [Quick Start Guide]
 
 ## To Use
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (Node.js automatically installs the [npm](http://npmjs.com) package manager) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/kadamwhite/gif-t
 # Go into the repository
-cd electron-quick-start
+cd gif-t
 # Install dependencies and run the app
 npm install && npm start
 ```
@@ -35,4 +37,6 @@ For more example apps, see the
 [list of boilerplates](http://electron.atom.io/community/#boilerplates)
 created by the awesome electron community.
 
-#### License [CC0 (Public Domain)](LICENSE.md)
+#### License [MIT](LICENSE.md)
+
+The boilerplate on which this project is based (62d428a & prior) is licensed CC0 (Public Domain).
